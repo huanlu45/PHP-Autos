@@ -1,4 +1,5 @@
 # PHP-Autos
+Using MAMP library to create the SQL database, and use PDO to talk to the database. 
 Record and delete interactive forms
 Step 1. Users can log into the application.
 Step 2. System will use Hash to check users' password
